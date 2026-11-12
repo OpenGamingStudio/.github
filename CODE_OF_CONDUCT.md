@@ -37,7 +37,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Les comportements abusifs, harcelants ou inacceptables peuvent être signalés aux responsables de la communauté chargés de l'application de ce code de conduite, à l'adresse suivante : conduite@opengamingstudio.com. Merci de ne pas exposer de données personnelles dans un espace public.
+Les comportements abusifs, harcelants ou inacceptables peuvent être signalés aux responsables de la communauté chargés de l'application de ce code de conduite, par signalement privé GitHub (onglet « Security » du dépôt concerné, puis « Report a vulnerability »), traité par le Team Lead du studio. Merci de ne pas exposer de données personnelles dans un espace public.
 
 Tous les signalements sont examinés et instruits rapidement et équitablement. Les responsables de la communauté sont tenus de respecter la vie privée et la sécurité de la personne qui signale un incident.
 
