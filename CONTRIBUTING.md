@@ -21,7 +21,7 @@ Merci de votre intérêt ! Ces règles s'appliquent à tous les dépôts publics
 
 ## Revue et fusion
 
-- Chaque PR est relue par Rémi Review ; son accord écrit est obligatoire avant toute fusion.
+- Chaque PR est relue par Rémi Review ; sa relecture est obligatoire avant tout push sur une branche partagée, avant l'ouverture de la PR et avant la fusion. Son accord écrit est requis à chacune de ces étapes.
 - La fusion sur `main` est faite uniquement par Yann Deploy, avec les accords écrits de Rémi et de Victor.
 
 ## Documentation des bibliothèques (Context7)
@@ -41,4 +41,4 @@ Toute API de bibliothèque utilisée est vérifiée avec Context7 ; mentionnez-l
 4. Respectez les règles ci-dessus (commits, tests, lint, aucun secret).
 5. Ouvrez une **PR avec le modèle** fourni, en cochant la checklist.
 6. En contribuant, vous acceptez que votre contribution soit publiée sous **licence MIT**, comme le reste du projet.
-7. La PR est triée par Léa Review ou Noé, puis relue par Rémi Review ; la fusion suit les règles de la section « Revue et fusion ».
+7. La PR est triée par Léa ou Victor (direction du studio), puis relue par Rémi Review ; la fusion suit les règles de la section « Revue et fusion ».

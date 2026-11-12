@@ -37,9 +37,9 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at l'équipe des mainteneurs, via les [Security advisories](https://docs.github.com/fr/code-security/security-advisories) du dépôt concerné (onglet « Security » → « Report a vulnerability »), sans exposer de données personnelles dans un espace public. All complaints will be reviewed and investigated promptly and fairly.
+Les comportements abusifs, harcelants ou inacceptables peuvent être signalés aux responsables de la communauté chargés de l'application de ce code de conduite, à l'adresse suivante : CONTACT_A_DEFINIR. Merci de ne pas exposer de données personnelles dans un espace public.
 
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+Tous les signalements sont examinés et instruits rapidement et équitablement. Les responsables de la communauté sont tenus de respecter la vie privée et la sécurité de la personne qui signale un incident.
 
 ## Enforcement Guidelines
 
